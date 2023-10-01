@@ -8,6 +8,7 @@ How to install and setup splunk
 
 
 What is splunk?
+
 A tool that helps organizing ,monitoring and analyzing data efficiently. It searches data very quickly and  makes correlation of data very easy and efficient .It allows to collect, index and harness machine generated big data for various purposes including troubleshooting, security, business intelligence through a platform that is browser-like-interface. Splunk can also be used to generate reports and dashboards to help visualization of data.
 In this blog we will learn how to install and setup splunk on a windows machine.
 
@@ -23,7 +24,7 @@ Search splunk on your browser search bar to access splunk website
 
 
 
-Click on url shown below
+Click on url as shown in below image
 
 
 
